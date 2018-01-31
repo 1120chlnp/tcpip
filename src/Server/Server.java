@@ -1,4 +1,4 @@
-package tcpip1;
+package Server;
 
 public class Server {
        int a = 9;
